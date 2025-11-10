@@ -1,9 +1,15 @@
 ---
-title: "About"
+title: "Publications"
 ---
 
-About this site
+I've written about several projects I've done on climate action and education for other publications, do check them out below!
 
-```{r}
-1 + 1
-```
+-   ["One Forum, Many Voices: A Few Reflections on Global Climate Action,"](https://tenstrands.org/one-forum-many-voices-a-few-reflections-on-global-climate-action/) Ten Strands, Nov. 2025
+
+\vspace{1pt}
+
+-   ["Beyond Melting Glaciers: Building a Climate Justice Curriculum By Youth, for Youth,"](https://gng.org/2025/09/30/climate-justice-curriculum/) Global Nomads, Sep. 2025
+
+\vspace{1pt}
+
+-   ["Climate Change Will Be Taught in California Middle Schools, Thanks to Our Curriculum,"](https://www.teenvogue.com/story/climate-change-california-middle-schools-curriculum) Teen Vogue, Jan. 2025

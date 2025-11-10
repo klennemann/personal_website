@@ -1,0 +1,152 @@
+---
+title: CV
+format:
+  quarto-cv-pdf: default
+author: Katinka Lennemann
+date: last-modified
+phone: +1 (650)-284-6140
+# address: "Guinness Brewery · Park Royal · London NW10 7RR, UK"
+email: klennemann@ucla.edu
+fontsize: 11pt
+# fontfamily: ebgaramond-maths # default font LaTeX package https://tug.org/FontCatalogue/about.html
+#mainfont: Ubuntu # if you want to use a different locally installed font
+#CJKmainfont: Noto Sans CJK JP # locally installed Asian character font, must use with xelatex
+github: klennemann # github account
+# orcid: 0000-0002-1825-0097 # orcid identifier
+#osf: ymqui # osf five character id
+#twitter: twitter # twitter handle
+# web: quarto.org
+fontawesome: yes
+nocite: '@*'
+# bibliography: 
+#  peer: peer_bib.bib
+#  other: other_bib.bib
+validate-yaml: false
+csl: apa-cv.csl
+geometry:
+  - top=16mm
+  - left=16mm
+  - right=16mm
+  - bottom=16mm
+---
+
+# PROFESSIONAL EXPERIENCE
+
+**San Mateo County Sustainability Department**
+\
+*Climate Protection Team Intern \hfill Jun. 2025 - Aug. 2025*
+
+* Built spatial map in ArcGIS to identify high impact sites for EV chargers by integrating electric grid load capacity, charger density, and demographic data 
+* Led data-driven evaluation of school decarbonization by inventorying over 100 methane-fueled appliances across 12+ school sites and estimating greenhouse gas savings
+* Created dashboard of performance data for 15 clean energy incentive programs using Excel, identifying trends to inform future program design and funding allocation
+* Managed an RFP for procuring plumbing services and coordinated contractor logistics for a cost study on commercial kitchen electrification
+
+
+**ASEAN Foundation Model ASEAN Meeting (East Asia Summit 2025)**
+\
+*US Delegate \hfill Aug. 2025 - Sep. 2025*
+
+* Represented the Lao PDR in the Economic Pillar; researched and co-drafted policy recommendations for offshore renewable-energy development across Southeast Asia.
+* Analyzed regional regulatory frameworks and investment incentives, contributing to the Chairman’s Statement on offshore renewables, disaster management, and marine pollution.
+
+
+
+**Global Nomads Group**
+\
+*Curriculum coordinator \hfill Jun. 2023 - Dec. 2024*
+
+* Developed a data-driven climate change curriculum focused on water management and land subsidence in California’s Central Valley; field-tested in 107 schools across the state
+* Conducted research by interviewing field experts in geology, water management, and policy to ensure solution-focused lessons and factual accuracy
+* Modelled trendlines for data from the US Geological Survey on snowfall and precipitation 
+
+*Team Leader \hfill Oct. 2022 - Jun. 2023*
+
+* Managed a six-person team to research and design the curriculum, assessing product quality periodically 
+* Ensured accessibility of content and workload for students with learning disabilities
+
+
+**Each Green Corner**
+\
+*Data Evaluation Intern \hfill Feb. 2023 - Jun. 2023*
+
+* Transformed disconnected raw data to a live summary metrics and visualizations page
+* Conducted analysis on site performance trends to create actionable insights on how to improve operations
+
+___
+
+# EDUCATION
+
+**University of California, Los Angeles** 
+\
+*B.S. Applied Mathematics, B.S. Statistics & Data Science - GPA: 3.8*
+
+* Relevant Coursework: Linear Models, Applied Numerical Methods, Computation and Optimization, Foundations of Environmental Policy and Regulation
+* Academies of Social Entrepreneurship Alumni
+  + Researched and pitched a new business venture for California Youth Services (CYS), an nonprofit organization in Orange County providing mental health intervention services
+  + Analyzed the customer base by analyzing and visualizing public datasets on school demographics
+  
+  
+**National University of Singapore** 
+\
+*Exchange student*
+
+* Relevant coursework: Stochastic Processes, Mathematical Modelling, Japan: A Green Nation?
+
+
+**College of San Mateo**
+\
+*Concurrent enrollment - GPA: 4.0*
+
+* Relevant coursework: Introduction to Object Oriented Programming, Accounting Procedures, Financial Accounting
+
+---
+
+# VOLUNTEERING
+  
+**California Youth Services** 
+\
+*Data Management & Processing \hfill Jul. 2025 - Present*
+
+* Supporting organizational operations by developing back-end forms and workflow reports in Apricot Social Solutions to streamline data entry and reporting processes.
+* Collaborating with staff to understand program needs and translating them into user-friendly data collection tools.
+
+
+
+
+**California Youth Climate Policy Leadership Program**
+\
+*Mentor \hfill Aug. 2022 - Present (seasonal)*
+
+* Providing mentorship and guidance to California high schoolers on carrying out climate policy campaigns
+
+
+**Sequoia Union H.S. District Sustainability Committee**
+\
+*Founder & Director \hfill May 2021 – Sep. 2022*
+
+* Directed a 30+ member cross-functional team across students, faculty, and board members through a committee that is still running today for environmental advocacy and action
+* Delivered three district-wide initiatives in 6 months: district-wide waste audit, environmental literacy professional development for teachers, and food share cart pilots
+* Received Sustainable & Climate Resilient Schools Challenge Award; was a panelist at the Green California Schools and Higher Education Summit
+
+---
+
+# PUBLICATIONS
+
+* ["One Forum, Many Voices: A Few Reflections on Global Climate Action,"](https://tenstrands.org/one-forum-many-voices-a-few-reflections-on-global-climate-action/) Ten Strands, Nov. 2025
+
+\vspace{1pt}
+
+* ["Beyond Melting Glaciers: Building a Climate Justice Curriculum By Youth, for Youth,"](https://gng.org/2025/09/30/climate-justice-curriculum/) Global Nomads, Sep. 2025
+
+\vspace{1pt}
+
+* ["Climate Change Will Be Taught in California Middle Schools, Thanks to Our Curriculum,"](https://www.teenvogue.com/story/climate-change-california-middle-schools-curriculum)  Teen Vogue, Jan. 2025
+
+---
+
+# SKILLS AND TOOLS
+
+**Technical:** R (dplyr, tidyr, ggplot2m, mlr3verse), Python (Pandas, SciPy, NumPy), SQL, Power BI, Excel, Java, Google Workspace, Microsoft Office
+\
+**Languages:** English (native), Mandarin (fluent)
+
