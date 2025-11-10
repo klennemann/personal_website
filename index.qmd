@@ -2,6 +2,8 @@
 title: "Homepage"
 ---
 
+![](headshot.png)
+
 Hi! My name is Katinka Lennemann. I'm a UCLA senior with a double major in Statistics & Data Science and Applied Mathematics. I'm passionate about data-driven change making for social impact, particularly for climate action and structural change.
 
 You can find my [CV](/CV/CV.pdf "CV") here, or learn more about the projects I've worked through the tabs above.
