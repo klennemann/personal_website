@@ -1,9 +1,33 @@
 ---
-title: "Homepage"
+title: ""
+html:
+    code-fold: true
 ---
 
-![](headshot.png)
 
-Hi! My name is Katinka Lennemann. I'm a UCLA senior with a double major in Statistics & Data Science and Applied Mathematics. I'm passionate about data-driven change making for social impact, particularly for climate action and structural change.
+:::: {.columns}
+
+::: {.column width="20%"}
+
+!(headshot.png){width=18%}
+[LinkedIn](https://www.linkedin.com/in/katinka-lennemann/)
+[Github](https://github.com/klennemann/)
+
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="70%"}
+
+
+Hi! My name is Katinka Lennemann. I'm as UCLA senior with a double major in Statistics & Data Science and Applied Mathematics. I'm passionate about data-driven change making for social impact, particularly for climate action and structural change.
 
 You can find my [CV](/CV/CV.pdf "CV") here, or learn more about the projects I've worked through the tabs above.
+
+:::
+
+::::
+
+
