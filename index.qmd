@@ -10,7 +10,11 @@ html:
 ::: {.column width="20%"}
 
 !(headshot.png){width=18%}
+
 [LinkedIn](https://www.linkedin.com/in/katinka-lennemann/)
+
+\n
+
 [Github](https://github.com/klennemann/)
 
 :::
