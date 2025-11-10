@@ -7,7 +7,5 @@ This is a Quarto website.
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 ```{r}
-hist(rexp(1000))
+hist(rexp(1000, 0.45))
 ```
-
-Hello hello hello testing update
