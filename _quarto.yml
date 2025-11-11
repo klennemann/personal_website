@@ -7,7 +7,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - publications.qmd
 
 format:
   html:
@@ -16,6 +16,7 @@ format:
       - brand
     css: styles.css
     toc: true
+    fontawesome: true
 
 editor: visual
 
