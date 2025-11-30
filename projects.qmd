@@ -70,7 +70,7 @@ With a group, I wrote a research paper that identifies the key intersections in 
 ::: {style="margin-top: 20px;"}
 :::
 
-[Seeds to Solutions](https://seedstosolutions.org/) is a set of unique, solutions-focused K-12 climate curriculum by Ten Strands, developed especially for the state of California. I worked with Global Nomads Group in particular to develop the 7th grade unit in particular, which starts with exploring [land subsidence in California's Central Valley](https://www.usgs.gov/centers/land-subsidence-in-california) in California's Central Valley](https://www.usgs.gov/centers/land-subsidence-in-california) to open into the broader issue of aquifer management. I developed this curriculum not only by distilling research on aquifer depletion into understandable lessons, but working with primary datasets on USGS precipitation data, primary historical documents on water management, and interviews with field experts in geology, farming, and advocacy. By utilizing backwards mapping, storyline-based design, and accessibility principles, I designed this curriculum to teach students how to model complex scientific phenomena, but also connect scientific issues to their roots in political and social systems. Over two years later, [this unit](https://seedstosolutions.org/units/7th-grade/) is now published and available for anyone to use for free.
+[Seeds to Solutions](https://seedstosolutions.org/) is a set of unique, solutions-focused K-12 climate curriculum by Ten Strands, developed especially for the state of California. I worked with Global Nomads Group in particular to develop the 7th grade unit in particular, which starts with exploring [land subsidence in California's Central Valley](https://www.usgs.gov/centers/land-subsidence-in-california) to open into the broader issue of aquifer management. I developed this curriculum not only by distilling research on aquifer depletion into understandable lessons, but working with primary datasets on USGS precipitation data, primary historical documents on water management, and interviews with field experts in geology, farming, and advocacy. By utilizing backwards mapping, storyline-based design, and accessibility principles, I designed this curriculum to teach students how to model complex scientific phenomena, but also connect scientific issues to their roots in political and social systems. Over two years later, [this unit](https://seedstosolutions.org/units/7th-grade/) is now published and available for anyone to use for free.
 
 
 <br>
@@ -94,14 +94,12 @@ With a group, I wrote a research paper that identifies the key intersections in 
 
 <figure style="margin: 0; text-align: center;">
 
-<img src="/project_s2s/images/tulare_lake.png" style="height: 280px; flex-shrink: 0;"/>
+<img src="/project_s2s/images/snowmelt_worksheet.png" style="height: 280px; flex-shrink: 0;"/>
 
-<figcaption>Historical newspaper (Credit: Ten Strands)</figcaption>
+<figcaption>Snowmelt Data worksheet (Credit: Ten Strands)</figcaption>
 
 </figure>
 :::
-
-
 
 ::::
 ::::::
