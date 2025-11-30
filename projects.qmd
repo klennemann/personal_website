@@ -96,7 +96,7 @@ With a group, I wrote a research paper that identifies the key intersections in 
 
 <img src="/project_s2s/images/tulare_lake.png" style="height: 280px; flex-shrink: 0;"/>
 
-<figcaption>Rainfall data worksheet (Credit: Ten Strands)</figcaption>
+<figcaption>Historical newspaper (Credit: Ten Strands)</figcaption>
 
 </figure>
 :::
