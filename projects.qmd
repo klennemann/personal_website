@@ -3,4 +3,106 @@ title: "Projects"
 format: html
 ---
 
-Coming soon!
+::: {style="margin-top: 20px;"}
+:::
+
+::::::: {style="display: flex; gap: 20px;"}
+::: {style="width: 10%; flex-shrink: 0;"}
+**Nov. 2024**
+:::
+
+::::: {style="width: 90%; margin-top: 0px;"}
+<h4 style="margin-top: 0; font-weight: bold;">Assessing Node Importance and Network Resilience in Chicago's Transportation Network</h4>
+
+##### *UCLA Department of Mathematics, MATH168 Introduction to Networks*
+
+::: {style="margin-top: 20px;"}
+:::
+
+With a group, I wrote a research paper that identifies the key intersections in the Chicago transportation network through the commonly used measures of closeness centrality and local betweenness centrality (LBC), a variant of the more common betweenness centrality. Furthermore, the tolerance of this city network to intersection closures was assessed by measuring how the diameter of the network increased in response to the removal of nodes, a method that has been developed but not applied to the Chicago transportation network. We find that the Chicago city network fragments catastrophically at a critical threshold of 40% of nodes removed. Our findings are useful for urban city planners to analyze how intersection closure may impact traffic and travel time across the city of Chicago and therefore which intersections are the most important to keep open. You can find the full research paper [here](/project_chicago/research_paper_2025.pdf).
+
+<br>
+
+::: {style="display: flex; overflow-x: auto; overflow-y: hidden; gap: 10px; height: 330px; padding: 10px 0;"}
+<figure style="margin: 0; text-align: center;">
+
+<img src="/project_chicago/images/top_10_nodes.png" style="height: 280px; flex-shrink: 0;"/>
+
+<figcaption>Most Important Nodes by LBC & Closeness</figcaption>
+
+</figure>
+
+<figure style="margin: 0; text-align: center;">
+
+<img src="/project_chicago/images/network_frag.png" style="height: 280px; flex-shrink: 0;"/>
+
+<figcaption>Visualization of Network Fragmentation</figcaption>
+
+</figure>
+
+<figure style="margin: 0; text-align: center;">
+
+<img src="/project_chicago/images/network_diameter.png" style="height: 280px; flex-shrink: 0;"/>
+
+<figcaption>Network Diameter Graph</figcaption>
+
+</figure>
+:::
+:::::
+:::::::
+
+<br><br><br>
+
+------------------------------------------------------------------------
+
+<br>
+
+:::::: {style="display: flex; gap: 20px; align-items: flex-start;"}
+::: {style="width: 10%; flex-shrink: 0; align-items: flex-start"}
+**Oct. 2022 - Dec. 2024**
+:::
+
+::::: {style="width: 90%; margin-top: 0px;"}
+<h4 style="margin-top: 0; font-weight: bold;">Seeds to Solutions</h4>
+
+##### *Ten Strands, Global Nomads Group*
+
+::: {style="margin-top: 20px;"}
+:::
+
+[Seeds to Solutions](https://seedstosolutions.org/) is a set of unique, solutions-focused K-12 climate curriculum by Ten Strands, developed especially for the state of California. I worked with Global Nomads Group in particular to develop the 7th grade unit in particular, which starts with exploring [land subsidence in California's Central Valley](https://www.usgs.gov/centers/land-subsidence-in-california) in California's Central Valley](https://www.usgs.gov/centers/land-subsidence-in-california) to open into the broader issue of aquifer management. I developed this curriculum not only by distilling research on aquifer depletion into understandable lessons, but working with primary datasets on USGS precipitation data, primary historical documents on water management, and interviews with field experts in geology, farming, and advocacy. By utilizing backwards mapping, storyline-based design, and accessibility principles, I designed this curriculum to teach students how to model complex scientific phenomena, but also connect scientific issues to their roots in political and social systems. Over two years later, [this unit](https://seedstosolutions.org/units/7th-grade/) is now published and available for anyone to use for free.
+
+
+<br>
+
+::: {style="display: flex; overflow-x: auto; overflow-y: hidden; gap: 10px; height: 330px; padding: 10px 0;"}
+<figure style="margin: 0; text-align: center;">
+
+<img src="/project_s2s/images/usgs_land_subsidence.jpg" style="height: 280px; flex-shrink: 0;"/>
+
+<figcaption>Photograph of land subsidence (Credit: USGS)</figcaption>
+
+</figure>
+
+<figure style="margin: 0; text-align: center;">
+
+<img src="/project_s2s/images/student_model.png" style="height: 280px; flex-shrink: 0;"/>
+
+<figcaption>Final learning model (Credit: Ten Strands)</figcaption>
+
+</figure>
+
+<figure style="margin: 0; text-align: center;">
+
+<img src="/project_s2s/images/tulare_lake.png" style="height: 280px; flex-shrink: 0;"/>
+
+<figcaption>Rainfall data worksheet (Credit: Ten Strands)</figcaption>
+
+</figure>
+:::
+
+
+
+::::
+::::::
+
