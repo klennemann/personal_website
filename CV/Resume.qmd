@@ -1,0 +1,81 @@
+---
+title: Resume
+format:
+  quarto-cv-pdf: default
+author: Katinka Lennemann
+date: last-modified
+phone: +1 (650)-284-6140
+# address: "Guinness Brewery · Park Royal · London NW10 7RR, UK"
+email: klennemann@ucla.edu
+fontsize: 11pt
+# fontfamily: ebgaramond-maths # default font LaTeX package https://tug.org/FontCatalogue/about.html
+#mainfont: Ubuntu # if you want to use a different locally installed font
+#CJKmainfont: Noto Sans CJK JP # locally installed Asian character font, must use with xelatex
+# github: klennemann # github account
+# linkedin: in/katinka-lennemann # this doesn't work
+# orcid: 0000-0002-1825-0097 # orcid identifier
+#osf: ymqui # osf five character id
+#twitter: twitter # twitter handle
+# web: quarto.org
+fontawesome: yes
+nocite: '@*'
+# bibliography: 
+#  peer: peer_bib.bib
+#  other: other_bib.bib
+validate-yaml: false
+csl: apa-cv.csl
+geometry:
+  - top=16mm
+  - left=16mm
+  - right=16mm
+  - bottom=16mm
+---
+
+
+
+# EDUCATION
+
+**University of California, Los Angeles**\
+*B.S. Applied Mathematics, B.S. Statistics & Data Science - GPA: 3.8*
+
+-   Relevant Coursework: Foundations of Environmental Policy, Design and Analysis of Experiment, Statistical Modelling
+-  Exchange student at the National University of Singapore
+-   Academies of Social Entrepreneurship Alumni - assisted California Youth Services (an nonprofit organization in Orange County providing mental health intervention services) in increasing the scale of impact by pitching a new business venture
+
+------------------------------------------------------------------------
+
+# PROFESSIONAL EXPERIENCE
+
+**San Mateo County Sustainability Department**\
+*Climate Protection Team Intern* \hfill Jun. 2025 - Aug. 2025
+
+-   Built spatial map in ArcGIS to identify high impact sites for EV chargers by integrating electric grid load capacity, charger density, and demographic data
+-   Created dashboard of performance data for 15 clean energy incentive programs using Excel, identifying trends to inform future program design and funding allocation
+-   Managed an RFP for procuring plumbing services and coordinated contractor logistics for a cost study on commercial kitchen electrification
+
+**ASEAN Foundation Model ASEAN Meeting (East Asia Summit 2025)**\
+*US Delegate* \hfill Aug. 2025 - Sep. 2025
+
+-   Represented the Lao PDR in the Economic Pillar; researched and co-drafted policy recommendations for offshore renewable-energy development across Southeast Asia.
+-   Analyzed regional regulatory frameworks and investment incentives, contributing to the Chairman’s Statement on offshore renewables, disaster management, and marine pollution.
+
+**Global Nomads Group**\
+*Curriculum Coordinator* \hfill Jun. 2023 - Dec. 2024
+
+-   Developed a data-driven climate change curriculum focused on water management and land subsidence in California’s Central Valley; field-tested in 107 schools across the state
+-   Conducted research by interviewing field experts in geology, water management, and policy to ensure solution-focused lessons and factual accuracy
+
+*Team Leader* \hfill Oct. 2022 - Jun. 2023
+
+-   Managed a six-person team to research and design the curriculum, assessing product quality periodically
+-   Ensured accessibility of content and workload for students with learning disabilities
+
+
+------------------------------------------------------------------------
+
+
+# ADDITIONAL
+
+**Technical:** R, Python, SQL, Power BI, Excel, Java, Google Workspace, Microsoft Office\
+**Languages:** English (native), Mandarin (fluent)\
+**Volunteering:** California Youth Climate Policy Leadership Program Mentor (providing mentorship and guidance to California high schoolers on carrying out climate policy campaigns)
