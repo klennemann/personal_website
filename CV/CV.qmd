@@ -71,7 +71,7 @@ geometry:
 **University of California, Los Angeles**\
 *B.S. Applied Mathematics, B.S. Statistics & Data Science - GPA: 3.8*
 
--   Relevant Coursework: Linear Models, Applied Numerical Methods, Computation and Optimization, Foundations of Environmental Policy and Regulation
+-   Relevant Coursework: Statistical Models and Data Mining, Applied Numerical Methods, Computation and Optimization, Foundations of Environmental Policy and Regulation
 -   Academies of Social Entrepreneurship Alumni
     -   Researched and pitched a new business venture for California Youth Services (CYS), an nonprofit organization in Orange County providing mental health intervention services
     -   Analyzed the customer base by analyzing and visualizing public datasets on school demographics

@@ -112,8 +112,15 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#new-taipei-2025-youth-climate-forum" id="toc-new-taipei-2025-youth-climate-forum" class="nav-link active" data-scroll-target="#new-taipei-2025-youth-climate-forum"><strong>New Taipei 2025 Youth Climate Forum</strong></a></li>
+  <li><a href="#seeds-to-solutions" id="toc-seeds-to-solutions" class="nav-link" data-scroll-target="#seeds-to-solutions"><strong>Seeds to Solutions</strong></a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -138,14 +145,14 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p>Articles I’ve written on projects or events I’ve been a part of are linked below! Check them out if you want a more in depth viewpoint of the process and philosophy behind some of these projects.</p>
-<section id="new-taipei-2025-youth-climate-forum" class="level4">
-<h4 class="anchored" data-anchor-id="new-taipei-2025-youth-climate-forum"><strong>New Taipei 2025 Youth Climate Forum</strong></h4>
+<section id="new-taipei-2025-youth-climate-forum" class="level3">
+<h3 class="anchored" data-anchor-id="new-taipei-2025-youth-climate-forum"><strong>New Taipei 2025 Youth Climate Forum</strong></h3>
 <ul>
 <li><a href="https://tenstrands.org/one-forum-many-voices-a-few-reflections-on-global-climate-action/">“One Forum, Many Voices: A Few Reflections on Global Climate Action,”</a> Ten Strands, Nov.&nbsp;2025</li>
 </ul>
 </section>
-<section id="seeds-to-solutions" class="level4">
-<h4 class="anchored" data-anchor-id="seeds-to-solutions"><strong>Seeds to Solutions</strong></h4>
+<section id="seeds-to-solutions" class="level3">
+<h3 class="anchored" data-anchor-id="seeds-to-solutions"><strong>Seeds to Solutions</strong></h3>
 <ul>
 <li><a href="https://gng.org/2025/09/30/climate-justice-curriculum/">“Beyond Melting Glaciers: Building a Climate Justice Curriculum By Youth, for Youth,”</a> Global Nomads, Sep.&nbsp;2025</li>
 <li><a href="https://www.teenvogue.com/story/climate-change-california-middle-schools-curriculum">“Climate Change Will Be Taught in California Middle Schools, Thanks to Our Curriculum,”</a> Teen Vogue, Jan.&nbsp;2025</li>
@@ -228,7 +235,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/katinkalennemann\.netlify\.app");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

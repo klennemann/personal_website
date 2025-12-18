@@ -12,7 +12,7 @@ fontsize: 11pt
 #mainfont: Ubuntu # if you want to use a different locally installed font
 #CJKmainfont: Noto Sans CJK JP # locally installed Asian character font, must use with xelatex
 # github: klennemann # github account
-# linkedin: in/katinka-lennemann # this doesn't work
+linkedin: in/katinka-lennemann # this doesn't work
 # orcid: 0000-0002-1825-0097 # orcid identifier
 #osf: ymqui # osf five character id
 #twitter: twitter # twitter handle
@@ -33,25 +33,17 @@ geometry:
 
 \vspace{30pt}
 
-Institute for Higher Education Policy\
-1615 L Street, NW,\
-Suite 310 Washington, DC 20036
-
-\vspace{30pt}
-
 Dear Hiring Manager,
 
 \vspace{15pt}
 
-My name is Katinka Lennemann; I'm writing to express my interested in the 2026 Spring Research Intern position at the Institute for Higher Education Policy!
+My name is Katinka Lennemann, and I am writing to express my interest in the Research Analyst position at Resources for the Future!
 
-I"m passionate about using creative research and policy design skills for social impact. Through my role as a curriculum coordinator, I conducted qualitative research with frontline communities being affected by the issue of land subsidence in the Central Valley, focusing the equity aspect of how those most affected should be centered in the solution-making as well. I also have experience doing policy research and literature review in my role as the U.S. Delegate to the ASEAN Foundation's Model East Asia Summit, where I did surveyed the existing environment of offshore renewable energy development and roadblocks the industry faces. These experiences taught me to be creative when looking for data, and moreover, how to communicate those finndings clearly to others.
+I am graduating this spring with a Bachelor’s in Statistics & Data Science, and I am applying for this role because it aligns closely with my experience supporting environmental programs through research, analysis, and implementation. While I originally envisioned a purely technical career, my work in climate policy and program delivery has shown me how essential strong institutions and well-run programs are to creating lasting environmental change.
 
-This role aligns not only with my rigorous research and communication skills, but also where I want to end up in the future: I believe that policy is truly the foundation of making instrumental change. What's more, it's in higher education that I discovered the power of policy. In this complex society, I believe that we need to make sure post-secondary education is affordable and accessible for all. My own dad, an immigrant to America, found footing to grow a family here because he was able to use his degree to secure a job, to find stability.
+My interest in this work began with grassroots organizing in my own school district, where I built coalitions, advocated for policy change, and helped establish a sustainability committee that remains active today. Since then, I have sought roles that combine values with execution. As a Curriculum Coordinator, I conducted qualitative research with water managers, tribal governments, and frontline communities to inform climate education programs implemented across California schools. More recently, as an intern with San Mateo County’s Sustainability Department, I supported clean energy program implementation by tracking performance data, coordinating contractors and procurement processes, and developing data tools to inform equity-based infrastructure planning within local government constraints.
 
-In these difficult political times, it is even more important that educational rights are not eroded. Whether that be through IHEP's focus areas of data & transparency, promoting educational completion, or equity in the admissions process, I would truly appreciate the opportunity to contribute to IHEP's mission.
-
-Thank you for considering my application.
+Through additional experiences such as serving as a U.S. Delegate to the ASEAN Foundation’s Model East Asia Summit and studying at the National University of Singapore, I have strengthened my ability to synthesize research, communicate clearly, and work across institutional and cultural contexts. I would be excited to bring my analytical, organizational, and program support skills to this role. Thank you for considering my application.
 
 \vspace{15pt}
 
