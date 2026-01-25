@@ -1,0 +1,70 @@
+---
+title: "ASEAN Foundation Model ASEAN Meeting"
+subtitle: "East Asia Summit 2025"
+format: html
+---
+
+```{=html}
+<div style="margin-top: 0.5rem; margin-bottom: 1.5rem;">
+  <div style="font-size: 0.875rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; color: #666;">Date</div>
+  <div style="margin-top: 0.25rem;">June 2025 - September 2025</div>
+</div>
+```
+
+```{=html}
+<div style="clear: both; text-align: center; margin: 2rem 0;">
+  <figure style="margin: 0; display: inline-block;">
+    <img src="/project_afmam/images/handshake.jpg" style="width: 100%; height: auto; max-width: 100%;"/>
+    <figcaption style="font-size: 0.9rem; margin-top: 0.5rem; color: #666;">A photo of all delegates participating in the Economic Pillar</figcaption>
+  </figure>
+</div>
+```
+
+I applied to represent the United States at the ASEAN Foundation Model ASEAN Meeting during the East Asia Summit 2025, hoping to get a real sense of how multilateral diplomacy actually works. The summit itself was held in Jakarta, Indonesia during September 2025, with two months of research and preparation leading up to it. As the US delegate representing the Lao PDR, I worked to address offshore renewable-energy development across Southeast Asia, a critical issue given the region's climate vulnerabilities and economic aspirations.
+
+The policy work itself was incredibly interesting--I spent a lot of time researching how different countries approach renewable energy regulations and investment incentives. The Lao PDR in particular is a land-locked country and therefore has limited capacity to install offshore wind for instance, but is working on pilots such as floating solar on inland water bodies and runs enoguh hydropower to export energy to neighboring countries. 
+
+During the meeting simulations themselves, I worked with other delegates to co-draft policy recommendations in the chairman's statement. ASEAN politics are governed primarily by consensus, a vastly different mechanism compared to the states. At the opening ceremony, the other U.S. Delegate and I also had the privilege of meeting the US Charge d'Affaires to ASEAN Joy M. Sakurai, who gave us some insightful advice about navigating the politics of international relations. 
+
+
+::: {style="display: flex; overflow-x: auto; overflow-y: hidden; gap: 10px; height: 330px; padding: 10px 0;"}
+<figure style="margin: 0; text-align: center;">
+
+<img src="/project_afmam/images/us_cda.jpeg" style="height: 280px; flex-shrink: 0;"/>
+
+<figcaption>Meeting CDA Joy M. Sakurai</figcaption>
+
+</figure>
+
+<figure style="margin: 0; text-align: center;">
+
+<img src="/project_afmam/images/meeting.jpg" style="height: 280px; flex-shrink: 0;"/>
+
+<figcaption>A working session in action</figcaption>
+
+</figure>
+
+<figure style="margin: 0; text-align: center;">
+
+<img src="/project_afmam/images/asean_photo.jpg" style="height: 280px; flex-shrink: 0;"/>
+
+<figcaption>A photo by the ASEAN embelm!</figcaption>
+
+</figure>
+:::
+
+<br>
+
+What made this experience particularly enriching was the diversity of perspectives in the room. Alongside fellow US delegates and representatives from ASEAN member states, I collaborated with young leaders from China, Japan, the Republic of Korea, Australia, and New Zealand. This exposure to how peers from across East Asia approach regional challenges gave me a more nuanced understanding of the geopolitical landscape beyond what I've learned in the U.S.
+
+Cross-country collaboration can face many hurdles with regard to different systems of bureaucracy, differing access to money and resources, not to mention political viewpoints and interests. But global problems require global solutions; listening and learning to other countries can allow for creative and collaborative solutions that wouldn't exist otherwise! 
+
+```{=html}
+<div style="clear: both; text-align: center; margin: 2rem 0;">
+  <figure style="margin: 0; display: inline-block;">
+    <img src="/project_afmam/images/team_lao_pdr.jpg" style="width: 80%; height: auto; max-width: 100%;"/>
+    <figcaption style="font-size: 0.9rem; margin-top: 0.5rem; color: #666;">My fellow delegates and I representing the Lao PDR</figcaption>
+  </figure>
+</div>
+```
+

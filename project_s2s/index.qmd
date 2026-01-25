@@ -1,0 +1,44 @@
+---
+title: "Seeds to Solutions"
+subtitle: "Ten Strands, Global Nomads Group"
+format: html
+html: 
+  code-fold: true
+---
+
+```{=html}
+<div style="margin-top: 0.5rem; margin-bottom: 1.5rem;">
+  <div style="font-size: 0.875rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; color: #666;">Date</div>
+  <div style="margin-top: 0.25rem;">October 2022 - December 2024</div>
+</div>
+```
+
+[Seeds to Solutions](https://seedstosolutions.org/) is a set of unique, solutions-focused K-12 climate curriculum by Ten Strands, developed especially for the state of California. I worked with Global Nomads Group in particular to develop the 7th grade unit, which starts with exploring [land subsidence in California's Central Valley](https://www.usgs.gov/centers/land-subsidence-in-california) to launch into the broader issue of water resource management. I developed this curriculum not only by distilling research on aquifer depletion into understandable lessons, but working with USGS datasets on precipitation, primary documents on historical water management, and interviews with field experts in geology, farming, and advocacy. By utilizing backwards mapping, storyline-based design, and accessibility principles, I designed this curriculum to teach students how to model complex scientific phenomena, but also connect scientific issues to political and social systems. Over two years later, [this unit](https://seedstosolutions.org/units/7th-grade/) is now published and available for anyone to use for free.
+
+<br>
+
+::: {style="display: flex; overflow-x: auto; overflow-y: hidden; gap: 10px; height: 330px; padding: 10px 0;"}
+<figure style="margin: 0; text-align: center;">
+
+<img src="/project_s2s/images/usgs_land_subsidence.jpg" style="height: 280px; flex-shrink: 0;"/>
+
+<figcaption>Photograph of land subsidence (Credit: USGS)</figcaption>
+
+</figure>
+
+<figure style="margin: 0; text-align: center;">
+
+<img src="/project_s2s/images/student_model.png" style="height: 280px; flex-shrink: 0;"/>
+
+<figcaption>Final learning model (Credit: Ten Strands)</figcaption>
+
+</figure>
+
+<figure style="margin: 0; text-align: center;">
+
+<img src="/project_s2s/images/snowmelt_worksheet.png" style="height: 280px; flex-shrink: 0;"/>
+
+<figcaption>Snowmelt Data worksheet (Credit: Ten Strands)</figcaption>
+
+</figure>
+:::

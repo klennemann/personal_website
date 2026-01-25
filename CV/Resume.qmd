@@ -43,15 +43,15 @@ geometry:
 **San Mateo County Sustainability Department**\
 *Climate Protection Team Intern* \hfill Jun. 2025 - Aug. 2025
 
--   Created dashboard of performance metrics for 15 clean energy incentive programs using Excel, identifying trends to inform future program design and funding allocation
+-   Built spatial map in ArcGIS to identify high impact sites for EV chargers by integrating electric grid load capacity, charger density, and demographic data
+-   Used Excel to created dashboard of performance metrics for 15 clean energy incentive programs, identifying trends to inform future program design and funding allocation
 -   Supported data-driven evaluation of school decarbonization by inventorying over 100 methane-fueled appliances across 12+ school sites to estimate greenhouse gas savings
--   Coordinated an RFP process and contractor logistics for a commercial kitchen electrification cost study, supporting data collection, timelines, and procurement requirements
 
 **Global Nomads Group**\
 *Curriculum Coordinator* \hfill Jun. 2023 - Dec. 2024
 
 -   Coordinated development of a climate change curriculum on water management and land subsidence, informed by data and policy research and field-tested in 100+ California schools
--   Synthesized qualitative research from academic literature and interviews with USGS geologists, tribal governments, water managers, and frontline communities into clear, evidence-based materials
+-   Synthesized research from academic literature and interviews with USGS geologists, tribal governments, water managers, and frontline communities into clear, evidence-based materials for a general audience
 -   Reviewed outputs for accuracy and consistency, incorporating field-test feedback to refine content and maintain alignment with program objectives
 
 
@@ -68,8 +68,8 @@ geometry:
 **University of California, Los Angeles**\
 *B.S. Applied Mathematics, B.S. Statistics & Data Science - GPA: 3.8*
 
--   Relevant coursework: Statistical Models and Data Mining, Computation and Optimization, Foundations of Environmental Policy and Regulation
--   Academies of Social Entrepreneurship Alumni: conducted market research and analyzed public school datasets to pitch a new business venture for California Youth Services (CYS), an mental health nonprofit
+-   Relevant coursework: Statistical Models and Data Mining, Computation and Optimization in R, Foundations of Environmental Policy and Regulation, Applied Numerical Methods
+-   Academies of Social Entrepreneurship Alumni: conducted market research and analyzed large public school datasets to pitch a new business venture for California Youth Services (CYS), an mental health nonprofit
 
 --- 
 
@@ -89,5 +89,5 @@ geometry:
 
 # SKILLS AND TOOLS
 
-**Technical:** R, Excel, Python, SQL, Power BI, Google Workspace, Microsoft Office\
-**Languages:** English (native), Mandarin (fluent), German (elementary)
+**Technical:** R, Excel, Python, SQL, Power BI, Google Workspace, Microsoft Office, ChatGPT \
+**Languages:** English (native), Mandarin (fluent)

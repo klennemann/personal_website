@@ -1,0 +1,70 @@
+---
+title: "SUHSD Sustainability Committee"
+subtitle: "Sequoia Union High School District"
+format: html
+html: 
+  code-fold: true
+---
+
+```{=html}
+<div style="margin-top: 0.5rem; margin-bottom: 1.5rem;">
+  <div style="font-size: 0.875rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; color: #666;">Date</div>
+  <div style="margin-top: 0.25rem;">November 2020 - June 2022</div>
+</div>
+```
+
+Frustrated with a lack of climate change action in my school district, I decided to form a coalition of students to pass a climate emergency declaration. With support from the San Mateo County Office of Education and an intitial coalition of students from various schools within my district, we drafted a resolution policy for our district Board of Trustees to pass.
+
+```{=html}
+<div style="clear: both; text-align: center; margin: 2rem 0;">
+  <figure style="margin: 0; display: inline-block;">
+    <img src="/project_ssc/images/resolution_doc.png" style="width: 50%; height: auto; max-width: 100%;"/>
+    <figcaption style="font-size: 0.9rem; margin-top: 0.5rem; color: #666;">Climate Emergency Declaration Resolution (first page)</figcaption>
+  </figure>
+</div>
+```
+
+We were intially rebuffed by our district Board of Trustees after presenting our resoltuion in January 2021, who cited other concerns like COVID-19 and George Floyd protests as more pressing. As such, I led this group in reaching out to other stakeholders in the district and getting them to sign on support. Besides support from organizations like the Office of Education, Office of Sustainability, Carlmont PTSA, Sequoia District Teacher's Association, and various student clubs, we also advocated for signatures on a [change.org petition](https://www.change.org/p/suhsd-district-declare-climate-emergency-in-suhsd), garnering nearly 800 signatures from various stakeholders in the district.
+
+```{=html}
+<div style="clear: both; text-align: center; margin: 2rem 0;">
+  <figure style="margin: 0; display: inline-block;">
+    <img src="/project_ssc/images/board_meeting.png" style="width: 55%; height: auto; max-width: 100%;"/>
+    <figcaption style="font-size: 0.9rem; margin-top: 0.5rem; color: #666;">Speaking at a district board meeting in April</figcaption>
+  </figure>
+</div>
+```
+
+Five months of petitioning later, the Board of Trustees unanimously passed our petition upon seeing the overwhelming support for policy. From there, I utilized the momentum of the coalition of supporters to set up a district Sustainability Committee consisting of stakeholders. In the span of six months, I directed the committee to set up three subcommittees to work on different projects, such as a district-wide waste audit, a environmental literacy survey, and food share carts.
+
+::: {style="display: flex; overflow-x: auto; overflow-y: hidden; gap: 10px; height: 330px; padding: 10px 0;"}
+<figure style="margin: 0; text-align: center;">
+
+<img src="/project_ssc/images/trash_audit.jpg" style="height: 280px; flex-shrink: 0;"/>
+
+<figcaption>Photo from waste audit</figcaption>
+
+</figure>
+
+<figure style="margin: 0; text-align: center;">
+
+<img src="/project_ssc/images/waste_audit_doc.png" style="height: 280px; flex-shrink: 0;"/>
+
+<figcaption>Waste Audit Report</figcaption>
+
+</figure>
+
+<figure style="margin: 0; text-align: center;">
+
+<img src="/project_ssc/images/enviro_survey.png" style="height: 280px; flex-shrink: 0;"/>
+
+<figcaption>Environmental Literacy Survey Result</figcaption>
+
+</figure>
+:::
+
+<br>
+
+In setting up this committee, I established a student leadership team to spearhead project implementation, prioritized a diversity of stakeholders, and encourage participation from other organizations in the community like county offices, the Center for Environmental Health, high school green teams, and Board of Trustee members themselves. This committee is [still running today](https://www.seq.org/ABOUT-US/General-Information/District-Sustainability/index.html) in improving sustainability across all schools.
+
+Regarding this work, I spoke at the 2022 Green California Schools & Community Colleges Summit and at the New Taipei 2025 Youth Climate Forum regarding this work to spread awareness about how effective cross-generational student-led committees can be.
