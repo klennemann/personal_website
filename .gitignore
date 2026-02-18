@@ -8,3 +8,8 @@
 
 # Local Netlify folder
 .netlify
+
+# Personal job application files
+CV/Resume.qmd
+CV/References.qmd
+CV/Cover_Letter.qmd
