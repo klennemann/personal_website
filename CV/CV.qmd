@@ -35,80 +35,82 @@ geometry:
 **San Mateo County Sustainability Department**\
 *Climate Protection Team Intern* \hfill Jun. 2025 - Aug. 2025
 
--   Built spatial map in ArcGIS to identify high impact sites for EV chargers by integrating electric grid load capacity, charger density, and demographic data
--   Used Excel to created dashboard of performance data for 15 clean energy incentive programs, identifying trends to inform future program design and funding allocation
--   Led data-driven evaluation of school decarbonization by inventorying over 100 methane-fueled appliances across 12+ school sites and estimating greenhouse gas savings
--   Managed an RFP for procuring plumbing services and coordinated contractor logistics for a cost study on commercial kitchen electrification
+-   Built spatial map in ArcGIS to identify high impact sites for EV chargers by integrating electric grid load capacity, charger density, and demographic data, resulting in clearer advocacy for site-level support in EV charger installation
+-   Used Excel to created dashboard of performance data for 15 clean energy incentive programs, identifying trends to inform future county program design and funding allocation for meeting the county's climate action plan targets
+-   Estimated school decarbonization potential by inventorying over 100 methane-fueled appliances across 12+ school sites
+-   Managed an RFP and coordinated contractor logistics for an innovative cost study on commercial kitchen electrification
 
 **ASEAN Foundation Model ASEAN Meeting (East Asia Summit 2025)**\
-*US Delegate* \hfill Aug. 2025 - Sep. 2025
+*U.S. Delegate* \hfill Aug. 2025 - Sep. 2025
 
--   Represented the Lao PDR in the Economic Pillar; researched and co-drafted policy recommendations for offshore renewable-energy development across Southeast Asia.
--   Analyzed regional regulatory frameworks and investment incentives, contributing to the Chairman’s Statement on offshore renewables, disaster management, and marine pollution.
+-   As representing the Lao PDR in the Economic Pillar, researched regional regulatory frameworks and investment incentives and drafted policy recommendations for cooperative offshore renewable energy development across Southeast Asia
 
 **Global Nomads Group**\
 *Curriculum Coordinator* \hfill Jun. 2023 - Dec. 2024
 
--   Developed a data-driven climate change curriculum focused on water management and land subsidence in California’s Central Valley; field-tested in 107 schools across the state
--   Conducted research by interviewing field experts in geology, water management, and policy to ensure solution-focused lessons and factual accuracy
--   Modelled trendlines for data from the US Geological Survey on snowfall and precipitation
+-   Developed climate change curriculum focused on water management and land subsidence in California’s Central Valley, field-tested in 100+ schools and now used in dozens of classrooms across the state of California
+-   Synthesized research from academic literature and interviews with USGS geologists, tribal governments, water managers, and impacted frontline communities into clear storylines and evidence-based materials for a general audience
+-   Reviewed outputs for accuracy and consistency, incorporated field-test feedback to refine content, and iterated on product features, overall maintaining alignment with multiple NGSS standards and overall program objectives
 
 *Team Leader* \hfill Oct. 2022 - Jun. 2023
 
--   Managed a six-person team to research and design the curriculum, assessing product quality periodically
--   Ensured accessibility of content and workload for students with learning disabilities
+-   Managed a six-person team to research and design the curriculum, assessing product quality periodically for equity-focused curriculum and accessibility of content for students with learning disabilities
 
 **Each Green Corner**\
 *Data Evaluation Intern* \hfill Feb. 2023 - Jun. 2023
 
--   Transformed disconnected raw data to a live summary metrics and visualizations page
--   Conducted analysis on site performance trends to create actionable insights on how to improve operations
+-   Transformed disconnected raw data to a live metrics and visualizations dashboard and conducted analysis on site performance trends for better data-monitoring by decision makers
 
-------------------------------------------------------------------------
+\vspace{12pt}
 
 # EDUCATION
 
-**University of California, Los Angeles**\
+**University of California, Los Angeles**\hfill 2022 - 2026\
 *B.S. Applied Mathematics, B.S. Statistics & Data Science - GPA: 3.8*
 
--   Relevant Coursework: Statistical Models and Data Mining, Applied Numerical Methods, Computation and Optimization, Monte Carlo Methods, Foundations of Environmental Policy and Regulation
+-   UCLA Sailing Team Skipper & Apparel Officer
 -   Academies of Social Entrepreneurship Alumni
-    -   Researched and pitched a new business venture for California Youth Services (CYS), an nonprofit organization in Orange County providing mental health intervention services
-    -   Analyzed the customer base by analyzing and visualizing public datasets on school demographics
+    -   Researched and pitched a new business venture for a nonprofit client in Orange County through performing SWOT analyses, analyzing large school datasets, and setting up financial projections
+-   Relevant coursework: Statistical Models and Data Mining, Applied Numerical Methods, Computation and Optimization, Monte Carlo Methods, Linear Models, Foundations of Environmental Policy and Regulation
 
-**National University of Singapore**\
+**National University of Singapore**\hfill Fall 2024\
 *Exchange student*
 
--   Relevant coursework: Stochastic Processes, Mathematical Modelling, Japan: A Green Nation?
+-   Coursework: Stochastic Processes, Mathematical Modelling, Japanese sustainability, and fashion in eastern/western culture
 
-**College of San Mateo**\
-*Concurrent enrollment - GPA: 4.0*
+**College of San Mateo**\hfill Spring 2020 - Spring 2022\
+*Concurrent Enrollment Student - GPA 4.0*
 
--   Relevant coursework: Introduction to Object Oriented Programming, Accounting Procedures, Financial Accounting
+-   Coursework: Introduction to Business, Accounting Procedures, Financial Accounting, Introduction to Graphic Design
 
-------------------------------------------------------------------------
+**Carlmont High School**\hfill 2018 - 2022
+
+-   Concurrent enrollment student at College of San Mateo, taking additional coursework in business, accounting, and coding
+-   Awards & Honors: National Merit Scholarship Semifinalist, AP Scholar with Distinction
+
+\vspace{12pt}
 
 # VOLUNTEERING
 
 **California Youth Services**\
 *Data Management & Processing* \hfill Jul. 2025 - Present
 
--   Supporting organizational operations by developing back-end forms and workflow reports in Apricot Social Solutions to streamline data entry and reporting processes.
--   Collaborating with staff to understand program needs and translating them into user-friendly data collection tools.
+-   Streamlining data entry and reporting processes by developing back-end forms and workflows in Apricot Social Solutions
+-   Collaborating with staff to understand program needs and translating them into user-friendly data collection tools
 
 **California Youth Climate Policy Leadership Program**\
 *Mentor* \hfill Aug. 2022 - Present (seasonal)
 
--   Providing mentorship and guidance to California high schoolers on carrying out climate policy campaigns
+-   Providing mentorship and guidance to California high schoolers on carrying out six-month long term climate policy campaigns, supporting them to build a coalition, draft policy on specific causes, and present proposals to key decision makers
 
 **Sequoia Union H.S. District Sustainability Committee**\
 *Founder & Director* \hfill May 2021 – Sep. 2022
 
--   Directed a 30+ member cross-functional team across students, faculty, and board members through a committee that is still running today for environmental advocacy and action
--   Delivered three district-wide initiatives in 6 months: district-wide waste audit, environmental literacy professional development for teachers, and food share cart pilots
--   Received Sustainable & Climate Resilient Schools Challenge Award; was a panelist at the Green California Schools and Higher Education Summit
+-   Directed a 30+ member cross-functional team with students, school faculty, community organizations, and Board of Trustee members through a committee that is still running today for environmental advocacy and action projects
+-   Delivered three district-wide initiatives in six months: a comprehensive waste audit across six schools in partnership with the County of Education, environmental literacy professional development for teachers, and a food share cart pilot
+-   Received Sustainable & Climate Resilient Schools Challenge Award; spoke on the importance of cross-generational collaboration as a panelist at the Green California Schools and Higher Education Summit
 
-------------------------------------------------------------------------
+\vspace{12pt}
 
 # PUBLICATIONS
 
@@ -122,9 +124,11 @@ geometry:
 
 -   ["Climate Change Will Be Taught in California Middle Schools, Thanks to Our Curriculum,"](https://www.teenvogue.com/story/climate-change-california-middle-schools-curriculum) Teen Vogue, Jan. 2025
 
-------------------------------------------------------------------------
 
-# SKILLS AND TOOLS
+\vspace{12pt}
 
-**Technical:** R (dplyr, tidyr, ggplot2m, mlr3verse), Python (Pandas, SciPy, NumPy), SQL, Power BI, Excel, Java, Google Workspace, Microsoft Office\
-**Languages:** English (native), Mandarin (fluent)
+# SKILLS AND MORE
+
+**Languages:** English (native), Mandarin (fluent), German (elementary)\
+**Technical:** R (tidyverse, mlr3verse), Python (numpy, matplotlib), SQL, Power BI, Excel, Java, Google Workspace, Office 365\
+**Personal Interests:** Cooking with friends, oil pastels, piano, surrealist fiction, camping (especially among redwoods), fashion
