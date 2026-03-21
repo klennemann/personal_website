@@ -159,7 +159,7 @@ Explore projects I've worked on or events I've participated in below:
 
 <a href="project_chicago/" class="project-banner banner-chicago">
   <div class="banner-content">
-    <h2>Chicago Road Network Analysis</h2>
+    <h2>Research: Chicago Road Network Analysis</h2>
     <p>November 2024</p>
   </div>
 </a>

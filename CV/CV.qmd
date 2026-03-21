@@ -1,7 +1,13 @@
 ---
 title: CV
 format:
-  quarto-cv-pdf: default
+  quarto-cv-pdf:
+    include-in-header:
+      text: |
+        \usepackage{parskip}
+        \setlength{\parskip}{0pt}
+        \setlength{\itemsep}{-3pt}
+        \setlength{\topsep}{-5pt}
 author: Katinka Lennemann
 date: last-modified
 phone: +1 (650)-284-6140
@@ -32,103 +38,97 @@ geometry:
 
 # PROFESSIONAL EXPERIENCE
 
-**San Mateo County Sustainability Department**\
-*Climate Protection Team Intern* \hfill Jun. 2025 - Aug. 2025
+**San Mateo County Sustainability Department** \hfill \textit{Redwood City, CA}\
+*Climate Protection Team Intern \hfill Jun 2025 - Aug 2025*
 
--   Built spatial map in ArcGIS to identify high impact sites for EV chargers by integrating electric grid load capacity, charger density, and demographic data, resulting in clearer advocacy for site-level support in EV charger installation
--   Used Excel to created dashboard of performance data for 15 clean energy incentive programs, identifying trends to inform future county program design and funding allocation for meeting the county's climate action plan targets
--   Estimated school decarbonization potential by inventorying over 100 methane-fueled appliances across 12+ school sites
+-   Identified high impact sites for EV chargers by building spatial map in ArcGIS and integrating electric grid load capacity, charger density, and demographic data layers, resulting in clearer advocacy for site-level support in EV charger installation
+-   Built internal dashboard aggregating performance metrics for 15 clean energy incentive programs in Excel, identifying trends to inform future county program design and funding allocation for meeting the county's climate action plan targets
 -   Managed an RFP and coordinated contractor logistics for an innovative cost study on commercial kitchen electrification
+-   Inventoried over 100 methane-fueled appliances across 12+ school sites and estimated decarbonization potential
 
-**ASEAN Foundation Model ASEAN Meeting (East Asia Summit 2025)**\
-*U.S. Delegate* \hfill Aug. 2025 - Sep. 2025
 
--   As representing the Lao PDR in the Economic Pillar, researched regional regulatory frameworks and investment incentives and drafted policy recommendations for cooperative offshore renewable energy development across Southeast Asia
+**ASEAN Foundation Model ASEAN Meeting (East Asia Summit 2025)** \hfill \textit{Jakarta, Indonesia}\
+*U.S. Delegate \hfill Aug 2025 - Sep 2025*
 
-**Global Nomads Group**\
-*Curriculum Coordinator* \hfill Jun. 2023 - Dec. 2024
+-   As a representative of the Lao PDR in the Economic Pillar, researched regional regulatory frameworks and investment incentives and drafted policy recommendations for offshore renewable energy development across Southeast Asia
 
--   Developed climate change curriculum focused on water management and land subsidence in California’s Central Valley, field-tested in 100+ schools and now used in dozens of classrooms across the state of California
--   Synthesized research from academic literature and interviews with USGS geologists, tribal governments, water managers, and impacted frontline communities into clear storylines and evidence-based materials for a general audience
--   Reviewed outputs for accuracy and consistency, incorporated field-test feedback to refine content, and iterated on product features, overall maintaining alignment with multiple NGSS standards and overall program objectives
 
-*Team Leader* \hfill Oct. 2022 - Jun. 2023
+**Global Nomads Group** \hfill \textit{Remote}\
+*Curriculum Coordinator \hfill Dec 2022 - Dec 2024*
 
--   Managed a six-person team to research and design the curriculum, assessing product quality periodically for equity-focused curriculum and accessibility of content for students with learning disabilities
+-   Designed and developed a 10 unit curriculum on water management and land subsidence in California's Central Valley
+-   Managed consultations and review cycles with 8 domain experts including USGS hydrologists, tribal authorities, and frontline communities, incorporating feedback to align curriculum with NGSS standards and funder requirements
+-   Synthesized aquifer simulations, historical documents, and analysis of USGS precipitation data from weather stations across California in partnership with Concord Consortium to develop data-driven materials
+-   Reviewed curriculum outputs for consistency and accuracy by incorporating field-test feedback from 9 classrooms, refining content to validate student accessibility and ensure alignment with educational standards
 
-**Each Green Corner**\
-*Data Evaluation Intern* \hfill Feb. 2023 - Jun. 2023
+*Team Leader, 10 hours/week \hfill Oct. 2022 - Dec 2022*
 
--   Transformed disconnected raw data to a live metrics and visualizations dashboard and conducted analysis on site performance trends for better data-monitoring by decision makers
+-   Supervised six-person research team through curriculum design, establishing quality standards, reviewing outputs for accessibility and accuracy, and mentoring teammates on research methodology throughout the process
 
-\vspace{12pt}
+
+**Each Green Corner** \hfill \textit{Remote}\
+*Data Evaluation Intern \hfill Feb 2023 - Jun 2023*
+
+-   Aggregated harvest data from 12 urban garden sites collected via Google Forms, developing automated metrics dashboard in Google Sheets that refreshed in real-time for stakeholder monitoring
+-   Analyzed site-level performance and synthesized findings into reports and recommendations for nonprofit leadership
+
 
 # EDUCATION
 
-**University of California, Los Angeles**\hfill 2022 - 2026\
-*B.S. Applied Mathematics, B.S. Statistics & Data Science - GPA: 3.8*
+**University of California, Los Angeles** (GPA 3.8) \hfill \textit{Los Angeles, CA}\
+Bachelor of Science, Applied Mathematics \hfill \textit{Expected July 2026}\
+Bachelor of Science, Statistics & Data Science 
 
+-   Statistics & Data Science Capstone: worked with a client from UCLA Health on analyzing CAPAIR self-reported questionnaire data from scarring alopecia patients for significant associations with mental health using statistical tests in Python
+-   Academies of Social Entrepreneurship Alumni: Researched and pitched a new business venture for a nonprofit client in Orange County through performing SWOT analyses, analyzing large school datasets, and setting up financial projections
 -   UCLA Sailing Team Skipper & Apparel Officer
--   Academies of Social Entrepreneurship Alumni
-    -   Researched and pitched a new business venture for a nonprofit client in Orange County through performing SWOT analyses, analyzing large school datasets, and setting up financial projections
--   Relevant coursework: Statistical Models and Data Mining, Applied Numerical Methods, Computation and Optimization, Monte Carlo Methods, Linear Models, Foundations of Environmental Policy and Regulation
+-   Coursework: Statistical Models and Data Mining, Computation and Optimization in R, Design and Analysis of Experiment, Intro to Networks, Foundations of Environmental Policy and Regulation, Object-Oriented Programming
 
-**National University of Singapore**\hfill Fall 2024\
-*Exchange student*
+
+**National University of Singapore** \hfill \textit{Singapore, Singapore}\
+*Exchange student \hfill Aug 2024 - Dec 2024*
 
 -   Coursework: Stochastic Processes, Mathematical Modelling, Japanese sustainability, and fashion in eastern/western culture
 
-**College of San Mateo**\hfill Spring 2020 - Spring 2022\
-*Concurrent Enrollment Student - GPA 4.0*
+**Carlmont High School** \hfill \textit{San Mateo, CA}\
+*High School Student \hfill Jan 2020 - Jul 2022*
 
--   Coursework: Introduction to Business, Accounting Procedures, Financial Accounting, Introduction to Graphic Design
-
-**Carlmont High School**\hfill 2018 - 2022
-
--   Concurrent enrollment student at College of San Mateo, taking additional coursework in business, accounting, and coding
+-   Concurrent enrollment student at nearby San Mateo community colleges, taking additional coursework of Introduction to Business, Accounting Procedures, Financial Accounting, Introduction to Graphic Design
 -   Awards & Honors: National Merit Scholarship Semifinalist, AP Scholar with Distinction
 
-\vspace{12pt}
 
 # VOLUNTEERING
 
-**California Youth Services**\
-*Data Management & Processing* \hfill Jul. 2025 - Present
+**California Youth Services** \hfill \textit{Remote}\
+*Data Management & Processing \hfill Jul 2025 - Present*
 
 -   Streamlining data entry and reporting processes by developing back-end forms and workflows in Apricot Social Solutions
 -   Collaborating with staff to understand program needs and translating them into user-friendly data collection tools
 
-**California Youth Climate Policy Leadership Program**\
-*Mentor* \hfill Aug. 2022 - Present (seasonal)
 
--   Providing mentorship and guidance to California high schoolers on carrying out six-month long term climate policy campaigns, supporting them to build a coalition, draft policy on specific causes, and present proposals to key decision makers
+**California Youth Climate Policy Leadership Program** \hfill \textit{Remote}\
+*Mentor \hfill Aug 2022 - Present (seasonal)*
 
-**Sequoia Union H.S. District Sustainability Committee**\
-*Founder & Director* \hfill May 2021 – Sep. 2022
+-   Providing mentorship and guidance to California high schoolers on carrying out 6+ month policy campaigns on how to build coalitions, conduct research to draft impactful policy, and present proposals to key decision makers
+
+
+**Sequoia Union H.S. District Sustainability Committee**\hfill \textit{Belmont, CA}\
+*Founder & Director \hfill May 2021 – Sep 2022*
 
 -   Directed a 30+ member cross-functional team with students, school faculty, community organizations, and Board of Trustee members through a committee that is still running today for environmental advocacy and action projects
 -   Delivered three district-wide initiatives in six months: a comprehensive waste audit across six schools in partnership with the County of Education, environmental literacy professional development for teachers, and a food share cart pilot
 -   Received Sustainable & Climate Resilient Schools Challenge Award; spoke on the importance of cross-generational collaboration as a panelist at the Green California Schools and Higher Education Summit
 
-\vspace{12pt}
 
 # PUBLICATIONS
 
 -   ["One Forum, Many Voices: A Few Reflections on Global Climate Action,"](https://tenstrands.org/one-forum-many-voices-a-few-reflections-on-global-climate-action/) Ten Strands, Nov. 2025
-
-\vspace{1pt}
-
 -   ["Beyond Melting Glaciers: Building a Climate Justice Curriculum By Youth, for Youth,"](https://gng.org/2025/09/30/climate-justice-curriculum/) Global Nomads, Sep. 2025
-
-\vspace{1pt}
-
 -   ["Climate Change Will Be Taught in California Middle Schools, Thanks to Our Curriculum,"](https://www.teenvogue.com/story/climate-change-california-middle-schools-curriculum) Teen Vogue, Jan. 2025
 
-
-\vspace{12pt}
 
 # SKILLS AND MORE
 
 **Languages:** English (native), Mandarin (fluent), German (elementary)\
-**Technical:** R (tidyverse, mlr3verse), Python (numpy, matplotlib), SQL, Power BI, Excel, Java, Google Workspace, Office 365\
+**Technical:** R (tidyverse, mlr3verse), Python (numpy, matplotlib), SQL, Power BI, Excel, Java\
 **Personal Interests:** Cooking with friends, oil pastels, piano, surrealist fiction, camping (especially among redwoods), fashion
