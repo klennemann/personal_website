@@ -80,7 +80,7 @@ Bachelor of Science, Applied Mathematics \hfill \textit{Expected July 2026}\
 Bachelor of Science, Statistics & Data Science 
 
 -   Statistics & Data Science Capstone: worked with a client from UCLA Health on analyzing CAPAIR self-reported questionnaire data from scarring alopecia patients for significant associations with mental health using statistical tests in Python
--   Academies of Social Entrepreneurship Alumni: Researched and pitched a new business venture for a nonprofit client in Orange County through performing SWOT analyses, analyzing large school datasets, and setting up financial projections
+-   Academies of Social Entrepreneurship Alumni: Researched and pitched a new business venture for a nonprofit client in Orange County through performing SWOT analyses, analyzing school datasets, and setting up financial projections
 -   UCLA Sailing Team Skipper & Apparel Officer
 -   Coursework: Statistical Models and Data Mining, Computation and Optimization in R, Design and Analysis of Experiment, Intro to Networks, Foundations of Environmental Policy and Regulation, Object-Oriented Programming
 
