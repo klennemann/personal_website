@@ -6,9 +6,11 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - projects.qmd
-      - publications.qmd
+        text: "KATINKA LENNEMANN"
+      - href: projects.qmd
+        text: Projects
+      - href: CV/CV.pdf
+        text: CV
 
 format:
   html:
@@ -16,9 +18,9 @@ format:
       - cosmo
       - brand
     css: styles.css
-    toc: true
+    toc: false
     fontawesome: true
-    
+    include-after-body: _cv_newtab.html
 
 editor: visual
 

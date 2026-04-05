@@ -36,6 +36,30 @@ geometry:
   - bottom=16mm
 ---
 
+
+# EDUCATION
+
+**University of California, Los Angeles** (GPA 3.8) \hfill \textit{Los Angeles, CA}\
+Bachelor of Science, Applied Mathematics \hfill \textit{Expected July 2026}\
+Bachelor of Science, Statistics & Data Science 
+
+-   Statistics & Data Science Capstone: worked with a client from UCLA Health on analyzing self-reported questionnaire data from scarring alopecia patients for significant associations with mental health using statistical tests in Python
+-   Academies of Social Entrepreneurship Alumni: Analyzed publicly available datasets, conducted market research, and set up financial projects as a technical consultant for a nonprofit client in Orange County looking to launch a new venture
+-   UCLA Sailing Team Skipper & Apparel Officer
+-   Coursework: Statistical Models and Data Mining, Computation and Optimization in R, Design and Analysis of Experiment, Intro to Networks, Monte Carlo Methods, Applied Numerical Methods, Partial Differential Equations
+
+
+**National University of Singapore** \hfill \textit{Singapore, Singapore}\
+*Exchange student \hfill Aug 2024 - Dec 2024*
+
+-   Coursework: Stochastic Processes, Mathematical Modelling, Japan: A Green Nation?, Fashion: East v.s. West
+
+**Carlmont High School** \hfill \textit{Belmont, CA}\
+*High School Student \hfill Aug 2018 - Jun 2022*
+
+-   Concurrent enrollment student at San Mateo community colleges, taking additional coursework of Introduction to Business, Accounting Procedures, Financial Accounting, and Introduction to Graphic Design
+-   Awards & Honors: National Merit Scholarship Semifinalist, AP Scholar with Distinction
+
 # PROFESSIONAL EXPERIENCE
 
 **San Mateo County Sustainability Department** \hfill \textit{Redwood City, CA}\
@@ -43,8 +67,8 @@ geometry:
 
 -   Identified high impact sites for EV chargers by building spatial map in ArcGIS and integrating electric grid load capacity, charger density, and demographic data layers, resulting in clearer advocacy for site-level support in EV charger installation
 -   Built internal dashboard aggregating performance metrics for 15 clean energy incentive programs in Excel, identifying trends to inform future county program design and funding allocation for meeting the county's climate action plan targets
--   Managed an RFP and coordinated contractor logistics for an innovative cost study on commercial kitchen electrification
 -   Inventoried over 100 methane-fueled appliances across 12+ school sites and estimated decarbonization potential
+-   Managed an RFP and coordinated contractor logistics for an innovative cost study on commercial kitchen electrification
 
 
 **ASEAN Foundation Model ASEAN Meeting (East Asia Summit 2025)** \hfill \textit{Jakarta, Indonesia}\
@@ -57,11 +81,11 @@ geometry:
 *Curriculum Coordinator \hfill Dec 2022 - Dec 2024*
 
 -   Designed and developed a 10 unit curriculum on water management and land subsidence in California's Central Valley
--   Managed consultations and review cycles with 8 domain experts including USGS hydrologists, tribal authorities, and frontline communities, incorporating feedback to align curriculum with NGSS standards and funder requirements
--   Synthesized aquifer simulations, historical documents, and analysis of USGS precipitation data from weather stations across California in partnership with Concord Consortium to develop data-driven materials
--   Reviewed curriculum outputs for consistency and accuracy by incorporating field-test feedback from 9 classrooms, refining content to validate student accessibility and ensure alignment with educational standards
+-   Synthesized data from aquifer simulations, historical documents, and analysis of USGS precipitation data from weather stations across California in partnership with Concord Consortium to develop data-driven materials
+-   Managed consultations and review cycles with 8 domain experts including USGS hydrologists, tribal authorities, and frontline communities, incorporating feedback to ensure curriculum meets NGSS standards and funder requirements
+-   Reviewed curriculum outputs for consistency and accuracy by incorporating field-test feedback from 9 classrooms, refining content to validate student accessibility and ensure coherence across lessons
 
-*Team Leader, 10 hours/week \hfill Oct. 2022 - Dec 2022*
+*Team Leader \hfill Oct 2022 - Dec 2022*
 
 -   Supervised six-person research team through curriculum design, establishing quality standards, reviewing outputs for accessibility and accuracy, and mentoring teammates on research methodology throughout the process
 
@@ -73,37 +97,15 @@ geometry:
 -   Analyzed site-level performance and synthesized findings into reports and recommendations for nonprofit leadership
 
 
-# EDUCATION
-
-**University of California, Los Angeles** (GPA 3.8) \hfill \textit{Los Angeles, CA}\
-Bachelor of Science, Applied Mathematics \hfill \textit{Expected July 2026}\
-Bachelor of Science, Statistics & Data Science 
-
--   Statistics & Data Science Capstone: worked with a client from UCLA Health on analyzing CAPAIR self-reported questionnaire data from scarring alopecia patients for significant associations with mental health using statistical tests in Python
--   Academies of Social Entrepreneurship Alumni: Researched and pitched a new business venture for a nonprofit client in Orange County through performing SWOT analyses, analyzing school datasets, and setting up financial projections
--   UCLA Sailing Team Skipper & Apparel Officer
--   Coursework: Statistical Models and Data Mining, Computation and Optimization in R, Design and Analysis of Experiment, Intro to Networks, Foundations of Environmental Policy and Regulation, Object-Oriented Programming
-
-
-**National University of Singapore** \hfill \textit{Singapore, Singapore}\
-*Exchange student \hfill Aug 2024 - Dec 2024*
-
--   Coursework: Stochastic Processes, Mathematical Modelling, Japanese sustainability, and fashion in eastern/western culture
-
-**Carlmont High School** \hfill \textit{San Mateo, CA}\
-*High School Student \hfill Jan 2020 - Jul 2022*
-
--   Concurrent enrollment student at nearby San Mateo community colleges, taking additional coursework of Introduction to Business, Accounting Procedures, Financial Accounting, Introduction to Graphic Design
--   Awards & Honors: National Merit Scholarship Semifinalist, AP Scholar with Distinction
-
 
 # VOLUNTEERING
 
 **California Youth Services** \hfill \textit{Remote}\
-*Data Management & Processing \hfill Jul 2025 - Present*
+*Data Management & Processing Volunteer \hfill Jul 2025 - Feb 2026*
 
--   Streamlining data entry and reporting processes by developing back-end forms and workflows in Apricot Social Solutions
--   Collaborating with staff to understand program needs and translating them into user-friendly data collection tools
+-   Streamlined data entry and reporting processes by developing back-end forms and workflows in Apricot Social Solutions
+-   Collaborated with staff to understand program needs and translating them into user-friendly data collection tools
+-   Developed metrics to monitor student success within the program and broad program success to communicate to donors
 
 
 **California Youth Climate Policy Leadership Program** \hfill \textit{Remote}\
@@ -116,8 +118,8 @@ Bachelor of Science, Statistics & Data Science
 *Founder & Director \hfill May 2021 – Sep 2022*
 
 -   Directed a 30+ member cross-functional team with students, school faculty, community organizations, and Board of Trustee members through a committee that is still running today for environmental advocacy and action projects
--   Delivered three district-wide initiatives in six months: a comprehensive waste audit across six schools in partnership with the County of Education, environmental literacy professional development for teachers, and a food share cart pilot
--   Received Sustainable & Climate Resilient Schools Challenge Award; spoke on the importance of cross-generational collaboration as a panelist at the Green California Schools and Higher Education Summit
+-   Delivered three district-wide initiatives in six months: a comprehensive waste audit across six schools in partnership with the County of Education, environmental literacy professional development for teachers, and food share carts pilot
+-   Received Sustainable & Climate Resilient Schools Challenge Award; served as a panelist at the Green California Schools and Higher Education Summit speaking on the importance of cross-generational collaboration
 
 
 # PUBLICATIONS
@@ -130,5 +132,5 @@ Bachelor of Science, Statistics & Data Science
 # SKILLS AND MORE
 
 **Languages:** English (native), Mandarin (fluent), German (elementary)\
-**Technical:** R (tidyverse, mlr3verse), Python (numpy, matplotlib), SQL, Power BI, Excel, Java\
+**Technical:** R (tidyverse, mlr3verse), Python (numpy, matplotlib, seaborn), SQL, Power BI, Excel, Java, Quarto \
 **Personal Interests:** Cooking with friends, oil pastels, piano, surrealist fiction, camping (especially among redwoods), fashion

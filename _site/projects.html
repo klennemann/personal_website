@@ -73,7 +73,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed quarto-light">
+<body class="nav-fixed fullcontent quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -91,15 +91,15 @@ ul.task-list li input[type="checkbox"] {
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
     <a class="nav-link" href="./index.html"> 
-<span class="menu-text">Home</span></a>
+<span class="menu-text">KATINKA LENNEMANN</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link active" href="./projects.html" aria-current="page"> 
 <span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./publications.html"> 
-<span class="menu-text">Publications</span></a>
+    <a class="nav-link" href="./CV/CV.pdf"> 
+<span class="menu-text">CV</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -112,9 +112,7 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
-    </div>
+    
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -137,175 +135,254 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Explore projects I’ve worked on or events I’ve participated in below:</p>
 <style>
-.project-banner {
-  display: block;
-  text-decoration: none;
-  color: inherit;
-  margin-bottom: 2rem;
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
+
+.filter-bar {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 1.75rem;
+  flex-wrap: wrap;
+}
+
+.filter-label {
+  font-size: 0.8rem;
+  color: #888;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  margin-right: 0.25rem;
+}
+
+.filter-btn {
+  display: inline-block;
+  padding: 4px 14px;
+  font-size: 0.8rem;
+  color: #555;
+  border: 1px solid #ccc;
+  border-radius: 20px;
+  background: transparent;
+  cursor: pointer;
+  transition: background 0.18s, color 0.18s, border-color 0.18s;
+  letter-spacing: 0.02em;
+  user-select: none;
+}
+
+.filter-btn:hover { background: #f0f0f0; border-color: #aaa; }
+.filter-btn.active { background: #333; color: #fff; border-color: #333; }
+
+.project-card {
+  position: relative;
   border-radius: 12px;
   overflow: hidden;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-}
-
-.project-banner:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 8px 16px rgba(0,0,0,0.15);
-  text-decoration: none;
-  color: inherit;
-}
-
-.banner-content {
-  padding: 2rem;
+  margin-bottom: 1.75rem;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.12);
   color: white;
-  border-radius: 12px;
-  text-align: center;
-  min-height: 180px;
+  min-height: 260px;
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  align-items: center;
+  justify-content: flex-end;
+  transition: transform 0.22s, box-shadow 0.22s;
+  cursor: pointer;
 }
 
-.banner-content h2 {
-  margin: 0;
-  font-size: 1.5rem;
-  font-weight: normal;
-  margin-bottom: 0;
+.project-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.18);
 }
 
-.banner-content p {
-  margin: 0.5rem 0 0 0;
-  font-size: 1rem;
+.project-card.hidden { display: none; }
+
+.project-card::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-size: cover;
+  background-position: center;
+  z-index: 0;
+  filter: brightness(0.72) saturate(0.7);
+}
+
+.card-afmam::before  { background-image: url("project_afmam/images/asean_photo.jpg"); }
+.card-s2s::before    { background-image: url("project_s2s/images/usgs_land_subsidence.jpg"); }
+.card-chicago::before { background: #1e3a8a; }
+.card-ssc::before    { background-image: url("project_ssc/images/suhsd_logo.jpg"); background-position: center; }
+
+.project-card::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to bottom, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0.65) 100%);
+  z-index: 1;
+}
+
+.card-chicago::after {
+  background: linear-gradient(to bottom, rgba(20,48,120,0.3) 0%, rgba(8,18,55,0.6) 100%);
+}
+
+.card-body {
+  position: relative;
+  z-index: 2;
+  padding: 1.6rem 1.8rem 1.4rem 1.8rem;
+}
+
+.card-label {
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  opacity: 0.8;
+  margin-bottom: 0.15rem;
+}
+
+.card-title {
+  font-size: 1.35rem;
+  font-weight: 600;
+  margin: 0 0 0.2rem 0;
+  line-height: 1.25;
+}
+
+.card-timeline {
+  font-size: 0.82rem;
+  opacity: 0.8;
+  margin-bottom: 0.85rem;
+}
+
+.card-description {
+  font-size: 0.92rem;
+  line-height: 1.55;
   opacity: 0.95;
+  margin-bottom: 0.85rem;
 }
 
-.banner-chicago .banner-content {
-  background-color: #1e3a8a;
+.card-pubs {
+  font-size: 0.82rem;
+  opacity: 0.9;
+  margin-bottom: 1rem;
+  line-height: 1.5;
 }
 
-.banner-s2s .banner-content {
-  background-image: url('project_s2s/images/usgs_land_subsidence.jpg');
-  background-size: cover;
-  background-position: center;
-  position: relative;
+.card-pubs strong { font-weight: 600; }
+
+.card-pubs a {
+  color: #c8deff;
+  text-decoration: none;
+  border-bottom: 1px solid rgba(200,222,255,0.4);
+  transition: border-color 0.2s;
 }
 
-.banner-s2s .banner-content::before {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background-color: rgba(27, 67, 50, 0.6);
-  z-index: 1;
+.card-pubs a:hover { border-bottom-color: #c8deff; }
+
+.card-learn-more {
+  font-size: 0.82rem;
+  font-weight: 500;
+  opacity: 0.75;
+  letter-spacing: 0.03em;
+  margin-top: 0.5rem;
 }
 
-.banner-s2s .banner-content h2,
-.banner-s2s .banner-content p {
-  position: relative;
-  z-index: 2;
-}
-
-.banner-afmam .banner-content {
-  background-image: url('project_afmam/images/asean_photo.jpg');
-  background-size: cover;
-  background-position: center;
-  position: relative;
-}
-
-.banner-afmam .banner-content::before {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background-color: rgba(53, 53, 53, 0.65);
-  z-index: 1;
-}
-
-.banner-afmam .banner-content h2,
-.banner-afmam .banner-content p {
-  position: relative;
-  z-index: 2;
-}
-
-.banner-ssc .banner-content {
-  background-image: url('project_ssc/images/suhsd_logo.jpg');
-  background-size: cover;
-  background-position: center;
-  position: relative;
-}
-
-.banner-ssc .banner-content::before {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background-color: rgba(27, 67, 50, 0.7);
-  z-index: 1;
-}
-
-.banner-ssc .banner-content h2,
-.banner-ssc .banner-content p {
-  position: relative;
-  z-index: 2;
-}
-
-@media (max-width: 768px) {
-  .banner-content {
-    padding: 1.5rem;
-    min-height: 150px;
-  }
-
-  .banner-content h2 {
-    font-size: 1.25rem;
-  }
-
-  .banner-content p {
-    font-size: 0.95rem;
-  }
-}
 </style>
 
-<a href="project_afmam/" class="project-banner banner-afmam">
-  <div class="banner-content">
-    <h2 class="anchored">ASEAN Foundation Model ASEAN Meeting</h2>
-    <p>June 2025 - September 2025</p>
-  </div>
-</a>
+<div class="filter-bar">
+  <span class="filter-label">Filter</span>
+  <span class="filter-btn active" data-filter="all">All</span>
+  <span class="filter-btn" data-filter="climate">Climate</span>
+  <span class="filter-btn" data-filter="data-analysis">Data Analysis</span>
+</div>
 
-
-<a href="project_s2s/" class="project-banner banner-s2s">
-  <div class="banner-content">
-    <h2 class="anchored">Seeds to Solutions</h2>
-    <p>October 2022 - December 2024</p>
+<!-- AFMAM -->
+<div class="project-card card-afmam" data-tags="climate" data-href="project_afmam/">
+  <div class="card-body">
+    <div class="card-label">Project</div>
+    <div class="card-title">ASEAN Foundation Model ASEAN Meeting</div>
+    <div class="card-timeline">Jun. 2025 – Sep. 2025</div>
+    <div class="card-description">Representing the United States as delegate for the Lao PDR at the East Asia Summit 2025 in Jakarta, co-drafting multilateral policy on offshore renewable energy across Southeast Asia.</div>
+    <div class="card-pubs"><strong>Connected Publications:</strong> <a href="https://tenstrands.org/one-forum-many-voices-a-few-reflections-on-global-climate-action/" target="_blank">Ten Strands</a> (2025)</div>
+    <div class="card-learn-more">Learn more →</div>
   </div>
-</a>
+</div>
 
-<a href="project_chicago/" class="project-banner banner-chicago">
-  <div class="banner-content">
-    <h2 class="anchored">Chicago Road Network Analysis</h2>
-    <p>November 2024</p>
+<!-- S2S -->
+<div class="project-card card-s2s" data-tags="climate data-analysis" data-href="project_s2s/">
+  <div class="card-body">
+    <div class="card-label">Project</div>
+    <div class="card-title">Seeds to Solutions</div>
+    <div class="card-timeline">Oct. 2022 – Dec. 2024</div>
+    <div class="card-description">Working as a curriculum coordinator and steering committee member with Ten Strands and Global Nomads Group to develop California K–8 climate curriculum, <a href="https://seedstosolutions.org/" target="_blank" style="color:#c8deff; border-bottom:1px solid rgba(200,222,255,0.4);">now freely published statewide</a>.</div>
+    <div class="card-pubs"><strong>Connected Publications:</strong> <a href="https://www.teenvogue.com/story/climate-change-california-middle-schools-curriculum" target="_blank">Teen Vogue</a> (2025), <a href="https://gng.org/2025/09/30/climate-justice-curriculum/" target="_blank">Global Nomads</a> (2025)</div>
+    <div class="card-learn-more">Learn more →</div>
   </div>
-</a>
+</div>
 
-<a href="project_ssc/" class="project-banner banner-ssc">
-  <div class="banner-content">
-    <h2 class="anchored">SUHSD Sustainability Committee</h2>
-    <p>November 2020 - June 2022</p>
+<!-- Chicago -->
+<div class="project-card card-chicago" data-tags="data-analysis" data-href="project_chicago/">
+  <div class="card-body">
+    <div class="card-label">Research</div>
+    <div class="card-title">Chicago Road Network Analysis</div>
+    <div class="card-timeline">Nov. 2024</div>
+    <div class="card-description">Identified critical intersections in Chicago's transportation network using closeness centrality and local betweenness centrality, finding the network fragments catastrophically at 40% node removal.</div>
+    <div class="card-pubs"><strong>Research Paper:</strong> <a href="./project_chicago/research_paper_2025.pdf" target="_blank">Assessing Node Importance and Network Resilience in Chicago's Transportation Network</a></div>
+    <div class="card-learn-more">Learn more →</div>
   </div>
-</a>
+</div>
+
+<!-- SSC -->
+<div class="project-card card-ssc" data-tags="climate data-analysis" data-href="project_ssc/">
+  <div class="card-body">
+    <div class="card-label">Project</div>
+    <div class="card-title">SUHSD Sustainability Committee</div>
+    <div class="card-timeline">Nov. 2020 – Jun. 2022</div>
+    <div class="card-description">Founded and led a student coalition that passed a unanimous climate emergency declaration across the Sequoia Union High School District, then established a multi-stakeholder sustainability committee still active today.</div>
+    <div class="card-pubs"><strong>Connected Link:</strong> <a href="https://www.seq.org/ABOUT-US/General-Information/District-Sustainability/index.html" target="_blank">District Sustainability Committee</a></div>
+    <div class="card-learn-more">Learn more →</div>
+  </div>
+</div>
+
+<script>
+  // Filter logic
+  const btns = document.querySelectorAll(".filter-btn");
+  const cards = document.querySelectorAll(".project-card");
+
+  btns.forEach(btn => {
+    btn.addEventListener("click", () => {
+      btns.forEach(b => b.classList.remove("active"));
+      btn.classList.add("active");
+      const filter = btn.dataset.filter;
+      cards.forEach(card => {
+        const tags = card.dataset.tags || "";
+        if (filter === "all" || tags.includes(filter)) {
+          card.classList.remove("hidden");
+        } else {
+          card.classList.add("hidden");
+        }
+      });
+    });
+  });
+
+  // Make each card clickable via data-href, but let inner links still work normally
+  cards.forEach(card => {
+    const href = card.dataset.href;
+    if (!href) return;
+    card.addEventListener("click", (e) => {
+      // If the click was on an inner <a> tag, let it handle itself
+      if (e.target.closest("a")) return;
+      window.location.href = href;
+    });
+  });
+</script>
 
 
 
 </main> <!-- /main -->
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  document.querySelectorAll(".nav-link").forEach(function(link) {
+    if (link.textContent.trim() === "CV") {
+      link.setAttribute("target", "_blank");
+      link.setAttribute("rel", "noopener noreferrer");
+    }
+  });
+});
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
@@ -379,7 +456,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/katinkalennemann\.com");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

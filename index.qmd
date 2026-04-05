@@ -4,25 +4,39 @@ html:
     code-fold: true
 ---
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-
 <style>
 .column p { margin: 4pt 0; }
+.headshot-circle {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  object-position: top;
+  border-radius: 50%;
+  display: block;
+}
+.projects-btn {
+  display: inline-block;
+  margin-top: 14pt;
+  padding: 6px 16px;
+  font-size: 0.85rem;
+  color: #555;
+  border: 1px solid #bbb;
+  border-radius: 6px;
+  text-decoration: none;
+  background: transparent;
+  transition: background 0.2s, color 0.2s;
+}
+.projects-btn:hover {
+  background: #f0f0f0;
+  color: #333;
+  text-decoration: none;
+}
 </style>
 
 :::: {.columns}
 
 ::: {.column width="20%"}
-![](headshot.png)
-
-<div style="margin-bottom: 10pt;"></div>
-
-[<i class="fab fa-linkedin"></i> LinkedIn](https://www.linkedin.com/in/katinka-lennemann/)
-
-[<i class="fab fa-github"></i> Github](https://github.com/klennemann/)
-
-[<i class="fas fa-envelope"></i> Email](mailto:tinka.lennemann@gmail.com)
-
+![](headshot.png){.headshot-circle}
 :::
 ::: {.column width="10%"}
 <!-- empty column to create gap -->
@@ -30,6 +44,8 @@ html:
 ::: {.column width="70%"}
 Hi! My name is Katinka Lennemann. I'm a UCLA senior with a double major in Statistics & Data Science and Applied Mathematics. I'm passionate about data-driven change making for social impact, particularly for climate action and structural change.
 
-You can find my CV [here](/CV/CV.pdf), or learn more about the projects I've worked through the tabs above.
+
+<a href="projects.html" class="projects-btn">View My Projects</a>
 :::
 ::::
+

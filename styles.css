@@ -1,1 +1,18 @@
 /* css styles */
+
+/* Navbar name styling */
+.navbar-brand,
+.navbar .navbar-brand {
+  font-weight: 600;
+  font-size: 1rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: inherit !important;
+}
+
+/* Nav links */
+.navbar-nav .nav-link {
+  font-size: 0.9rem;
+  letter-spacing: 0.03em;
+}
+
