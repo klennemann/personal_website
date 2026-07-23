@@ -6,11 +6,8 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: "KATINKA LENNEMANN"
-      - href: projects.qmd
-        text: Projects
-      - href: CV/CV.pdf
-        text: CV
+        icon: house-fill
+        text: " s"
 
 format:
   html:

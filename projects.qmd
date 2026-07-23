@@ -239,4 +239,3 @@ format: html
   });
 </script>
 ```
-

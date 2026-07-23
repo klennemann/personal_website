@@ -1,51 +1,108 @@
 ---
-title: "Home"
+pagetitle: "Home"
 html:
-    code-fold: true
+  code-fold: true
 ---
 
 <style>
 .column p { margin: 4pt 0; }
-.headshot-circle {
+
+.headshot {
   width: 100%;
-  aspect-ratio: 1 / 1;
+  aspect-ratio: 0.77/ 1 ;
   object-fit: cover;
   object-position: top;
-  border-radius: 50%;
+  border-radius: 0%;
   display: block;
+  margin-left: 8%;
 }
-.projects-btn {
-  display: inline-block;
-  margin-top: 14pt;
-  padding: 6px 16px;
-  font-size: 0.85rem;
-  color: #555;
-  border: 1px solid #bbb;
-  border-radius: 6px;
-  text-decoration: none;
-  background: transparent;
-  transition: background 0.2s, color 0.2s;
+
+.name-heading {
+  font-size: 2.2rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  margin: 5% 0 10px 0;
 }
-.projects-btn:hover {
-  background: #f0f0f0;
-  color: #333;
-  text-decoration: none;
+
+.blurb {
+  font-size: 0.95rem;
+  color: #ddd;
 }
+
+.cv-icon-link {
+  width: 80%;
+  display: block;
+  text-align: left;
+  margin-top: 40%;
+}
+
+.cv-icon {
+  width: 100%;
+  object-fit: contain;
+  transition: opacity 0.2s;
+}
+
+.cv-icon-link:hover .cv-icon {
+  opacity: 0.7;
+}
+
+
+.icon-row {
+  display: flex;
+  margin-top: 5%;
+  align-items: center;
+  justify-content: center;
+}
+
+.icon-row img {
+  margin-top: 5%;
+  height: 75px;
+  object-fit: contain;
+  transition: opacity 0.2s;
+  margin-left: 50px;
+}
+
+.icon-row a:hover img {
+  opacity: 0.7;
+}
+
+
 </style>
 
 :::: {.columns}
-
-::: {.column width="20%"}
-![](headshot.png){.headshot-circle}
+::: {.column width="22%"}
+![](headshot.png){.headshot}
 :::
-::: {.column width="10%"}
-<!-- empty column to create gap -->
+
+::: {.column width="22%"}
+<a href="CV/CV.pdf" target="_blank" class="cv-icon-link">
+  <img src="Icons/cv_icon.png" alt="CV" class="cv-icon">
+</a>
+
 :::
-::: {.column width="70%"}
-Hi! My name is Katinka Lennemann. I'm a UCLA senior with a double major in Statistics & Data Science and Applied Mathematics. I'm passionate about data-driven change making for social impact, particularly for climate action and structural change.
 
 
-<a href="projects.html" class="projects-btn">View My Projects</a>
-:::
 ::::
 
+<div class="name-heading">KATINKA LENNEMANN</div>
+
+<div class="blurb">
+Working on building electrification and clean energy in San Mateo County (who knew HVAC technology could be fun!) A geek on systems change and diffusion of innovation. Check out my CV above; click on the icons below to explore my projects. 
+</div>
+
+
+<div class="icon-row">
+  <a href="project_afmam/index.html">
+    <img src="Icons/asean_icon.png" alt="ASEAN Project">
+  </a>
+  <a href="project_s2s/index.html">
+    <img src="Icons/s2s_icon.png" alt="Seeds to Solutions Project">
+  </a>
+  <a href="project_ssc/index.html">
+    <img src="Icons/chair_icon.png" alt="SUHSD Sustainability Committee">
+  </a>
+  <a href="project_chicago/index.html">
+    <img src="Icons/chicago_icon.png" alt="Chicago Road Networks Paper">
+  </a>
+</div>
