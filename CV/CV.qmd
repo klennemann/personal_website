@@ -5,14 +5,14 @@ format:
     include-in-header:
       text: |
         \usepackage{parskip}
-        \setlength{\parskip}{0pt}
+        \setlength{\parskip}{5pt}
         \setlength{\itemsep}{-3pt}
-        \setlength{\topsep}{-5pt}
+        \setlength{\topsep}{-3pt}
 author: Katinka Lennemann
 date: last-modified
 phone: +1 (650)-284-6140
 # address: "Guinness Brewery · Park Royal · London NW10 7RR, UK"
-email: klennemann@ucla.edu
+email: tinka.lennemann@gmail.com
 fontsize: 11pt
 # fontfamily: ebgaramond-maths # default font LaTeX package https://tug.org/FontCatalogue/about.html
 #mainfont: Ubuntu # if you want to use a different locally installed font
@@ -36,12 +36,15 @@ geometry:
   - bottom=16mm
 ---
 
+# SUMMARY
+
+Analytically-driven recent graduate looking to work in clean energy programs at the local government level. Experience working previously in nonprofit and local government sustainability positions; skilled in stakeholder coordination, incorporating equity into program design, navigating government processes, and handling data. 
 
 # EDUCATION
 
-**University of California, Los Angeles** (GPA 3.8) \hfill \textit{Los Angeles, CA}\
-Bachelor of Science, Applied Mathematics \hfill \textit{Expected July 2026}\
-Bachelor of Science, Statistics & Data Science 
+**University of California, Los Angeles** \hfill \textit{Los Angeles, CA}\
+Bachelor of Science, Applied Mathematics (GPA 3.7) \hfill \textit{July 2026}\
+Bachelor of Science, Statistics & Data Science (GPA 3.8)
 
 -   Statistics & Data Science Capstone: worked with a client from UCLA Health on analyzing self-reported questionnaire data from scarring alopecia patients for significant associations with mental health using statistical tests in Python
 -   Academies of Social Entrepreneurship Alumni: Analyzed publicly available datasets, conducted market research, and set up financial projects as a technical consultant for a nonprofit client in Orange County looking to launch a new venture
@@ -54,15 +57,17 @@ Bachelor of Science, Statistics & Data Science
 
 -   Coursework: Stochastic Processes, Mathematical Modelling, Japan: A Green Nation?, Fashion: East v.s. West
 
-**Carlmont High School** \hfill \textit{Belmont, CA}\
-*High School Student \hfill Aug 2018 - Jun 2022*
-
--   Concurrent enrollment student at San Mateo community colleges, taking additional coursework of Introduction to Business, Accounting Procedures, Financial Accounting, and Introduction to Graphic Design
--   Awards & Honors: National Merit Scholarship Semifinalist, AP Scholar with Distinction
 
 # PROFESSIONAL EXPERIENCE
 
 **San Mateo County Sustainability Department** \hfill \textit{Redwood City, CA}\
+*Sustainability Specialist \hfill Jun 2026 - Dec 2026*
+
+-  Led end-to-end update of 65 energy and water efficiency kits across 33 libraries by adding trackable metrics, redesigning kit contents, and coordinating an outreach campaign, delivering project in five months and 15% under budget.
+-  Connected staff from 22 jurisdictions to building electrification and climate resources through a bimonthly newsletter (1,000+ subscribers, 45-65% open rate) and monthly virtual and in person workshops.
+-  Updated dashboard of 15 clean energy program outcomes in Excel by integrating 3 data sources, documenting clear annual update processes, and visualizing summary metrics for jurisdictions to communicate climate change progress with their audiences.
+
+
 *Climate Protection Team Intern \hfill Jun 2025 - Aug 2025*
 
 -   Identified high impact sites for EV chargers by building spatial map in ArcGIS and integrating electric grid load capacity, charger density, and demographic data layers, resulting in clearer advocacy for site-level support in EV charger installation
@@ -74,16 +79,15 @@ Bachelor of Science, Statistics & Data Science
 **ASEAN Foundation Model ASEAN Meeting (East Asia Summit 2025)** \hfill \textit{Jakarta, Indonesia}\
 *U.S. Delegate \hfill Aug 2025 - Sep 2025*
 
--   As a representative of the Lao PDR in the Economic Pillar, researched regional regulatory frameworks and investment incentives and drafted policy recommendations for offshore renewable energy development across Southeast Asia
+-   Represented the Lao PDR in the Economic Pillar by researching regional regulatory frameworks and investment incentives and drafting policy recommendations for offshore renewable energy development across Southeast Asia
 
 
 **Global Nomads Group** \hfill \textit{Remote}\
 *Curriculum Coordinator \hfill Dec 2022 - Dec 2024*
 
--   Designed and developed a 10 unit curriculum on water management and land subsidence in California's Central Valley
+-   Designed and developed a 10 unit curriculum on water management and land subsidence for California middle schools
 -   Synthesized data from aquifer simulations, historical documents, and analysis of USGS precipitation data from weather stations across California in partnership with Concord Consortium to develop data-driven materials
 -   Managed consultations and review cycles with 8 domain experts including USGS hydrologists, tribal authorities, and frontline communities, incorporating feedback to ensure curriculum meets NGSS standards and funder requirements
--   Reviewed curriculum outputs for consistency and accuracy by incorporating field-test feedback from 9 classrooms, refining content to validate student accessibility and ensure coherence across lessons
 
 *Team Leader \hfill Oct 2022 - Dec 2022*
 
@@ -103,23 +107,20 @@ Bachelor of Science, Statistics & Data Science
 **California Youth Services** \hfill \textit{Remote}\
 *Data Management & Processing Volunteer \hfill Jul 2025 - Feb 2026*
 
--   Streamlined data entry and reporting processes by developing back-end forms and workflows in Apricot Social Solutions
--   Collaborated with staff to understand program needs and translating them into user-friendly data collection tools
--   Developed metrics to monitor student success within the program and broad program success to communicate to donors
+-   Streamlined data entry and reporting processes by developing back-end forms and report in Apricot Social Solutions to better understand student and report program metrics to donors
 
 
 **California Youth Climate Policy Leadership Program** \hfill \textit{Remote}\
-*Mentor \hfill Aug 2022 - Present (seasonal)*
+*Mentor \hfill Aug 2022 - Present*
 
--   Providing mentorship and guidance to California high schoolers on carrying out 6+ month policy campaigns on how to build coalitions, conduct research to draft impactful policy, and present proposals to key decision makers
+-   Providing mentorship to California high schoolers on how to build coalitions, engage in public comment, and draft and present climate action policy to school and county boards
 
 
 **Sequoia Union H.S. District Sustainability Committee**\hfill \textit{Belmont, CA}\
 *Founder & Director \hfill May 2021 – Sep 2022*
 
--   Directed a 30+ member cross-functional team with students, school faculty, community organizations, and Board of Trustee members through a committee that is still running today for environmental advocacy and action projects
--   Delivered three district-wide initiatives in six months: a comprehensive waste audit across six schools in partnership with the County of Education, environmental literacy professional development for teachers, and food share carts pilot
--   Received Sustainable & Climate Resilient Schools Challenge Award; served as a panelist at the Green California Schools and Higher Education Summit speaking on the importance of cross-generational collaboration
+-   Directed a 30+ member team of students, school faculty, community organizations, and Board of Trustee members on district-wide climate action projects through a committee that is still running today
+-   Received Sustainable & Climate Resilient Schools Challenge Award; served as a panelist at the 2022 Green California Schools and Higher Education Summit and at the New Taipei 2025 Youth Climate Forum 
 
 
 # PUBLICATIONS
@@ -133,4 +134,3 @@ Bachelor of Science, Statistics & Data Science
 
 **Languages:** English (native), Mandarin (fluent), German (elementary)\
 **Technical:** R (tidyverse, mlr3verse), Python (numpy, matplotlib, seaborn), SQL, Power BI, Excel, Java, Quarto \
-**Personal Interests:** Cooking with friends, oil pastels, piano, surrealist fiction, camping (especially among redwoods), fashion
